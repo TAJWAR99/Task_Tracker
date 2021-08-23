@@ -1,3 +1,6 @@
+#Mock Backend
+It has a mock backend. So to add and see task you need to run --> npm rum server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
