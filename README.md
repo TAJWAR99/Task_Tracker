@@ -2,9 +2,9 @@
 It has a mock backend. So to add and see task you need to run --> npm rum server
 
 <p>Home Page</p>
-<img src="task_tracker_pic/capture.png" height=50% width=50%>
+<img src="task_tracker_pic/Capture.PNG" height=50% width=50%>
 <p>About Page</p>
-<img src="task_tracker_pic/capture1.png" height=50% width=50%>
+<img src="task_tracker_pic/Capture2.PNG" height=50% width=50%>
 
 # Getting Started with Create React App
 
